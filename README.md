@@ -107,23 +107,23 @@ Users can filter results by
 
 ### Home Dashboard
 
-> Add dashboard screenshot here
+> <img width="1281" height="722" alt="GoogleTrends1" src="https://github.com/user-attachments/assets/525eea03-7077-4930-8c4a-a23ed8c9b0c9" />
 
-```
-images/dashboard.png
-```
 
 ### Interest Over Time
 
-> Add screenshot here
+> <img width="1281" height="722" alt="image" src="https://github.com/user-attachments/assets/0be20146-69ef-45d6-b545-b95510b3e54b" />
+
 
 ### Regional Analysis
 
-> Add screenshot here
+> <img width="1282" height="722" alt="image" src="https://github.com/user-attachments/assets/8acc81e4-91aa-4efd-a560-7f12eb4ea69a" />
+
 
 ### Keyword Comparison
 
-> Add screenshot here
+> <img width="1280" height="726" alt="image" src="https://github.com/user-attachments/assets/a53b6ce0-1623-443c-8d2d-bd9b0e2b5c16" />
+
 
 ---
 
@@ -152,7 +152,7 @@ google-trends-analysis/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/google-trends-analysis.git
+git clone https://github.com/TejasB13/google-trends-analysis.git
 ```
 
 2. Open the `.pbix` file using **Power BI Desktop**.
